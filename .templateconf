@@ -1,0 +1,3 @@
+# Template settings
+export TEMPLATECONF=${TEMPLATECONF:-../meta-rba5d2x/conf}
+TEMPLATECONF=${TEMPLATECONF:-meta-poky/conf}
